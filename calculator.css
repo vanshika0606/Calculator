@@ -1,0 +1,52 @@
+body{
+    background-color: lightcyan;
+}
+.container{
+    
+    margin:5px;
+    
+}
+.box{
+   
+    width: 100%;
+    height: 95vh;
+}
+input{
+    width:100%;
+    font-size: 10vh;
+    height: 19vh;
+    font-weight: bold;
+    margin-left:-6px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+}
+
+
+button{
+    width:100%;
+    margin: -2px;
+    font-size:8vh;
+    height:15vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    background-color: transparent;
+}
+#cut{
+    font-size: 7vh;
+    /* color:rgb(255, 0, 0); */
+    font-weight: bolder;
+
+}
+button:hover{
+    background-color: rgb(23, 148, 142);
+    color: lightcyan;
+    transition: 0.2s;
+}
+table{
+    width:100%;
+    height: 70vh;
+   
+}
+
+
+
