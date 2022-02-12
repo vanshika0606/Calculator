@@ -30,6 +30,7 @@ button{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:none;
     background-color: transparent;
+    transition: 0.1s;
 }
 #cut{
     font-size: 7vh;
@@ -40,7 +41,7 @@ button{
 button:hover{
     background-color: rgb(23, 148, 142);
     color: lightcyan;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 table{
     width:100%;
